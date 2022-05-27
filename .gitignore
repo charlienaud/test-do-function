@@ -1,0 +1,4 @@
+.nimbella/
+.env
+packages/*/*/vendor/
+packages/*/*/__deployer__.zip

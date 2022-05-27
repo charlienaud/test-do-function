@@ -1,0 +1,9 @@
+packages:
+  - name: serverless-test
+    actions:
+      - name: helloWorld
+        limits:
+          timeout: 3000
+          memory: 128
+environment:
+  LOREM: ${LOREM}
